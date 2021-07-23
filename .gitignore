@@ -1,0 +1,7 @@
+# ignora cualquier directorio llamado "my_environments"
+my_environments/
+
+
+node_modules
+node_modules
+node_modules
